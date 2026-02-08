@@ -1,4 +1,4 @@
-const { JsonRpcProvider } = require("ethers");
+1const { JsonRpcProvider } = require("ethers");
 
 // Base Mainnet RPC URL
 const BASE_RPC_URL = "https://mainnet.base.org";
